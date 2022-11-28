@@ -1,0 +1,15 @@
+F:\IT\C#\Home_work\HW1\Task13\bin\Debug\net6.0\Task13.exe
+F:\IT\C#\Home_work\HW1\Task13\bin\Debug\net6.0\Task13.deps.json
+F:\IT\C#\Home_work\HW1\Task13\bin\Debug\net6.0\Task13.runtimeconfig.json
+F:\IT\C#\Home_work\HW1\Task13\bin\Debug\net6.0\Task13.dll
+F:\IT\C#\Home_work\HW1\Task13\bin\Debug\net6.0\Task13.pdb
+F:\IT\C#\Home_work\HW1\Task13\obj\Debug\net6.0\Task13.csproj.AssemblyReference.cache
+F:\IT\C#\Home_work\HW1\Task13\obj\Debug\net6.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+F:\IT\C#\Home_work\HW1\Task13\obj\Debug\net6.0\Task13.AssemblyInfoInputs.cache
+F:\IT\C#\Home_work\HW1\Task13\obj\Debug\net6.0\Task13.AssemblyInfo.cs
+F:\IT\C#\Home_work\HW1\Task13\obj\Debug\net6.0\Task13.csproj.CoreCompileInputs.cache
+F:\IT\C#\Home_work\HW1\Task13\obj\Debug\net6.0\Task13.dll
+F:\IT\C#\Home_work\HW1\Task13\obj\Debug\net6.0\refint\Task13.dll
+F:\IT\C#\Home_work\HW1\Task13\obj\Debug\net6.0\Task13.pdb
+F:\IT\C#\Home_work\HW1\Task13\obj\Debug\net6.0\Task13.genruntimeconfig.cache
+F:\IT\C#\Home_work\HW1\Task13\obj\Debug\net6.0\ref\Task13.dll
