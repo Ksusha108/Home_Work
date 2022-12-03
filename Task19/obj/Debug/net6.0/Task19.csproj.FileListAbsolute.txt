@@ -1,0 +1,15 @@
+F:\IT\C#\Home_work\HW1\Task19\bin\Debug\net6.0\Task19.exe
+F:\IT\C#\Home_work\HW1\Task19\bin\Debug\net6.0\Task19.deps.json
+F:\IT\C#\Home_work\HW1\Task19\bin\Debug\net6.0\Task19.runtimeconfig.json
+F:\IT\C#\Home_work\HW1\Task19\bin\Debug\net6.0\Task19.dll
+F:\IT\C#\Home_work\HW1\Task19\bin\Debug\net6.0\Task19.pdb
+F:\IT\C#\Home_work\HW1\Task19\obj\Debug\net6.0\Task19.csproj.AssemblyReference.cache
+F:\IT\C#\Home_work\HW1\Task19\obj\Debug\net6.0\Task19.GeneratedMSBuildEditorConfig.editorconfig
+F:\IT\C#\Home_work\HW1\Task19\obj\Debug\net6.0\Task19.AssemblyInfoInputs.cache
+F:\IT\C#\Home_work\HW1\Task19\obj\Debug\net6.0\Task19.AssemblyInfo.cs
+F:\IT\C#\Home_work\HW1\Task19\obj\Debug\net6.0\Task19.csproj.CoreCompileInputs.cache
+F:\IT\C#\Home_work\HW1\Task19\obj\Debug\net6.0\Task19.dll
+F:\IT\C#\Home_work\HW1\Task19\obj\Debug\net6.0\refint\Task19.dll
+F:\IT\C#\Home_work\HW1\Task19\obj\Debug\net6.0\Task19.pdb
+F:\IT\C#\Home_work\HW1\Task19\obj\Debug\net6.0\Task19.genruntimeconfig.cache
+F:\IT\C#\Home_work\HW1\Task19\obj\Debug\net6.0\ref\Task19.dll
