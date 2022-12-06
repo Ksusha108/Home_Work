@@ -1,0 +1,15 @@
+F:\IT\C#\Home_work\HW1\Task25\obj\Debug\net6.0\Task25.csproj.AssemblyReference.cache
+F:\IT\C#\Home_work\HW1\Task25\obj\Debug\net6.0\Task25.GeneratedMSBuildEditorConfig.editorconfig
+F:\IT\C#\Home_work\HW1\Task25\obj\Debug\net6.0\Task25.AssemblyInfoInputs.cache
+F:\IT\C#\Home_work\HW1\Task25\obj\Debug\net6.0\Task25.AssemblyInfo.cs
+F:\IT\C#\Home_work\HW1\Task25\obj\Debug\net6.0\Task25.csproj.CoreCompileInputs.cache
+F:\IT\C#\Home_work\HW1\Task25\bin\Debug\net6.0\Task25.exe
+F:\IT\C#\Home_work\HW1\Task25\bin\Debug\net6.0\Task25.deps.json
+F:\IT\C#\Home_work\HW1\Task25\bin\Debug\net6.0\Task25.runtimeconfig.json
+F:\IT\C#\Home_work\HW1\Task25\bin\Debug\net6.0\Task25.dll
+F:\IT\C#\Home_work\HW1\Task25\bin\Debug\net6.0\Task25.pdb
+F:\IT\C#\Home_work\HW1\Task25\obj\Debug\net6.0\Task25.dll
+F:\IT\C#\Home_work\HW1\Task25\obj\Debug\net6.0\refint\Task25.dll
+F:\IT\C#\Home_work\HW1\Task25\obj\Debug\net6.0\Task25.pdb
+F:\IT\C#\Home_work\HW1\Task25\obj\Debug\net6.0\Task25.genruntimeconfig.cache
+F:\IT\C#\Home_work\HW1\Task25\obj\Debug\net6.0\ref\Task25.dll
