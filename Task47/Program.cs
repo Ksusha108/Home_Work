@@ -7,8 +7,8 @@ void InputMatrix(double[, ] matrix)
     {
         for (double j = 0; j < matrix.GetLength(1); j++)
         {
-            matrix[i, j] = new Random().NextDouble(1, 11);
-            Console.Write($"{matrix[i, j]} \t");
+            matrix[i, j] = new Random().Next(1, 11); 
+            Console.Write(Math.Sqrt(matrix[i, j]));
         }
         Console.WriteLine();
     }
@@ -16,6 +16,6 @@ void InputMatrix(double[, ] matrix)
 
 Console.Clear();
 Console.Write("Введите размеры матрицы: ");
-string[] numbers = Console.ReadLine().Split(" ");
-double[,] matrix = new double[double.Parse(numbers[0]), double.Parse(numbers[1])];
+int[] size = Console.ReadLine().Split(" ").Select(x => int.Parse(x)).ToArray();
+double[, ] matrix = new double[size[0], size[1]];
 InputMatrix(matrix);
